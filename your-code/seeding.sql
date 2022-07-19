@@ -23,7 +23,7 @@ INSERT INTO salespersons VALUES
 (00007, 'Walter Melon', 'Amsterdam'),
 (00008, 'Shonda Leer', 'São Paulo');
 
-INSERT INTO invoices VALUES # invoice_no, date, car, customer, salesperson
+INSERT INTO invoices VALUES
 (852399038,'2018-08-22',0,1,3),
 (731166526,'2018-12-31',3,0,5),
 (271135104,'2019-01-22',2,2,7);
